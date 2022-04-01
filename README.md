@@ -2,7 +2,7 @@
 
 ## Estudiante: _Lucio Alvaro Jara_
 
-!(https://pbs.twimg.com/media/Eqq22TDXYAICbTY?format=jpg&name=900x900 "Este soy Yo")
+![Este soy yo](lucio.jpg.jpg)
 
  Tengo 21 años, soy estudiante de la carrera Licenciatura en Informática en la Universidad Nacional de Quilmes. Trabajo como repositor 
 en un mayorista llamado MaxiOfertas ubicado cerca del puente de Claypole. 
